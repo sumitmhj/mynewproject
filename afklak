@@ -1,0 +1,42 @@
+[33mcommit 446cda8040443aa681080f133262013d5fe07151[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 138c01f 6ba2012
+Author: Sammit <samitshrestha4@gmail.com>
+Date:   Sun Sep 19 09:27:17 2021 +0200
+
+    Merge branch 'main' of https://github.com/sumitmhj/mynewproject into main
+
+[33mcommit 138c01f9fc9222e0c501f6620cabf61a75f2ebc7[m
+Author: Sammit <samitshrestha4@gmail.com>
+Date:   Sun Sep 19 09:27:10 2021 +0200
+
+    student registation page added
+
+[33mcommit ff4fbfb24c0c5a9e7c2b58d2436696063a713601[m
+Author: Sammit <samitshrestha4@gmail.com>
+Date:   Fri Sep 10 15:36:48 2021 +0200
+
+    My first commit
+
+[33mcommit 6ba2012404813c044b7dc3c3c4d856268e788fe6[m
+Author: Sumit Maharjan <sumitjan2@gmail.com>
+Date:   Fri Sep 10 19:48:14 2021 +0930
+
+    my new htmlfile
+
+[33mcommit eafcd525dca6e835e1a4fc94212874709165d5e0[m
+Author: Sumit Maharjan <sumitjan2@gmail.com>
+Date:   Fri Sep 10 19:44:42 2021 +0930
+
+    made few changes
+
+[33mcommit 9f5ccba0bea564528e8b41cb10094ec0c9e73d7c[m[33m ([m[1;32muserlogin[m[33m)[m
+Author: Sumit Maharjan <sumitjan2@gmail.com>
+Date:   Fri Sep 10 18:59:31 2021 +0930
+
+    my second commit
+
+[33mcommit 26108644a7a16c3096ff06a1eec552722d9c35e3[m
+Author: Sumit Maharjan <sumitjan2@gmail.com>
+Date:   Fri Sep 10 18:53:43 2021 +0930
+
+    myfirst commit
