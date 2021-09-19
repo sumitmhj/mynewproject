@@ -11,7 +11,7 @@
 			echo $firstname;
 
 
-	$query = "insert into student(firstname, middlename, lastname, emailid, addrees, rollno, phoneno)
+	$query = "insert into newtable(firstname, middlename, lastname, emailid, address, rollno, phoneno)
 		values('$firstname','$middlename', '$lastname', '$emailid', '$addrees', '$rollno', '$phoneno')";
 
    $run = mysqli_query($conn, $query) or die(mysqli_error());
